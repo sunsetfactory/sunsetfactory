@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="mailto:admin@yermi.co.kr">
+	<a href="mailto:yang1194us@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
