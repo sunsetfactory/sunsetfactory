@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon EC2-6DB33F?style=flat-square&logo=Amazon EC2&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/>
